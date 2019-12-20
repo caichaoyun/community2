@@ -11,6 +11,7 @@ public class CommunityApplication {
         SpringApplication.run(CommunityApplication.class, args);
         System.out.println("你好");
         System.out.println("哈哈");
+        System.out.println("哈哈23244567654");
     }
 
 }
